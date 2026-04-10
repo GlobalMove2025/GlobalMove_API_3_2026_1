@@ -36,7 +36,7 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 |  Team Member   | Camila Martins       | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/camila-martins-515405219) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CamihMartins)   |    
 |  Team Member   | Idalice Godoi        | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idalice-godoi-248b05315?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/IdaliceJD)   |  
 |  Team Member   | João Victor          | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-santos-b54656338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joao3122br)  |
-|  Team Member   | Kelvin Sampaio       | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/kelvin-sampaio-139a462b4) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](..)   |  
+|  Team Member   | Kelvin Sampaio       | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/kelvin-sampaio-139a462b4) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/kelvinsampa012)   |  
 |  Team Member   | Leonardo Rodolfo     | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rodolfo-b931a0318?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/leonardorodolfo)   |    
 
 
@@ -87,7 +87,7 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 
 | Sprint            | Previsão    | Status   | Histórico |
 |-------------------| ----------- | ---------- |-----------|
-| 01                | 01/10/2025  | concluído| [MVP](..)  |
+| 01                | 01/10/2025  | concluído| [MVP]()  |
 | 02                | 29/10/2025  | concluído  | [MVP](MVP/sp2.md)  |
 | 03                | 19/11/2025  | concluído  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025  | Em andamento | [MVP](#)  |
