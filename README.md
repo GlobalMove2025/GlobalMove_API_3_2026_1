@@ -85,10 +85,10 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
   
 # <img src="https://cdn-icons-png.flaticon.com/512/7063/7063060.png" width="40"/> Registro das Sprints
 
-| Sprint            | Previsão    | Status   | Histórico |
-|-------------------| ----------- | ---------- |-----------|
-| 01                | 01/10/2025  | concluído| [MVP]()  |
-| 02                | 29/10/2025  | concluído  | [MVP](MVP/sp2.md)  |
-| 03                | 19/11/2025  | concluído  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 04/12/2025  | Em andamento | [MVP](#)  |
+| Sprint            | Previsão    | Status       | Histórico          |
+|-------------------| ----------- | ------------ |--------------------|
+| 01                | __ /__/ __  | Em andamento | [MVP]()            |
+| 02                | __ /__/ __  | A fazer      | [MVP](MVP/sp2.md)  |
+| 03                | __ /__/ __  | A fazer      | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | __ /__/ __  | A fazer      | [MVP](#)           |
 
