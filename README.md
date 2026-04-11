@@ -87,8 +87,8 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 
 | Sprint            | Previsão    | Status       | Histórico          |
 |-------------------| ----------- | ------------ |--------------------|
-| 01                | __ /__/ __  | Em andamento | [MVP]()            |
-| 02                | __ /__/ __  | A fazer      | [MVP](MVP/sp2.md)  |
-| 03                | __ /__/ __  | A fazer      | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | __ /__/ __  | A fazer      | [MVP](#)           |
+| 01                | __ /__ / __ | Em andamento | [MVP]()            |
+| 02                | __ /__ / __ | A fazer      | [MVP](MVP/sp2.md)  |
+| 03                | __ /__ / __ | A fazer      | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | __ /__ / __ | A fazer      | [MVP](#)           |
 
