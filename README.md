@@ -89,6 +89,6 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 |-------------------| ----------- | ------------ |--------------------|
 | 01                | __ /__ / __ | Em andamento | [MVP](https://github.com/GlobalMove2025/GlobalMove_API_3_2026_1/blob/575eb6b83a51ec22e29a8f618ebe3717da8fdc26/MVP/MVP/sp1.md)            |
 | 02                | __ /__ / __ | A fazer      | [MVP](https://github.com/GlobalMove2025/GlobalMove_API_3_2026_1/blob/575eb6b83a51ec22e29a8f618ebe3717da8fdc26/MVP/MVP/sp2.md)  |
-| 03                | __ /__ / __ | A fazer      | [MVP](MVP/sp3.md)  |
+| 03                | __ /__ / __ | A fazer      | [MVP](https://github.com/GlobalMove2025/GlobalMove_API_3_2026_1/blob/c73ca3e201f6fc719a2896e59723c26f2f66a388/MVP/MVP/sp3.md)  |
 | Feira de Soluções | __ /__ / __ | A fazer      | [MVP](#)           |
 
