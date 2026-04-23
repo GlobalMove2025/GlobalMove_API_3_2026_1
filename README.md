@@ -89,6 +89,6 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 |-------------------| ----------- | ------------ |--------------------|
 | 01                | 24/04/2026 | concluído | [MVP](MVP/MVP/sp1.md)            |
 | 02                | 15/05/2026 |   A fazer    | [MVP](MVP/MVP/sp2.md)  |
-| 03                | 12/06/2026 | A fazer      | [MVP](https://github.com/GlobalMove2025/GlobalMove_API_3_2026_1/blob/c73ca3e201f6fc719a2896e59723c26f2f66a388/MVP/MVP/sp3.md)  |
-| Feira de Soluções | 18/06/2026 | A fazer      | [MVP](#)           |
+| 03                | 12/06/2026 | A fazer      | [MVP](MVP/MVP/sp3.md)  |
+| Feira de Soluções | 18/06/2026 | A fazer      | [MVP](MVP/MVP/sp3.md)           |
 
