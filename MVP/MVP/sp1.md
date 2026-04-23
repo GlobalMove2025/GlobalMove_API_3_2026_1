@@ -3,11 +3,11 @@
 ## 🎯 Objetivo do MVP
 > Desenvolver uma ferramenta de Power Bi que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito com foco em veículos pesados.
 
-
 ---
 
 ## 📝 Descrição da Solução
->...
+>Inicialmente fizemos pesquisas de dados e desenvolvemos codigo no python para coletar e fazer o tratamento dos dados, e em seguida fazer a conexão dos dados no Power BI, o Dashboard inicial tera funcionalidaes básicas com informações... .
+
 
 ---
 
