@@ -1,7 +1,7 @@
-# 📌 MVP - ....
+# 📌 MVP - Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo o território nacional.
 
 ## 🎯 Objetivo do MVP
-> ...
+> Desenvolver uma ferramenta de Power Bi que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito com foco em veículos pesados.
 
 
 ---
@@ -21,11 +21,12 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | ......      | Alta       |   2 |
-| US2 |   .....     | Alta       |   2 |
-| US3 |   ....      | Alta       |   2 |
-| US4 |   ....      | Alta       |   2 |
-| US5 |  ......     | Alta       |   2 |
+| US1 | Como analista de segurança viária, quero coletar dados de acidentes envolvendo veículos pesados em bases públicas, para construir uma base confiável para análise de segurança viária no Brasil. | Alta       |   2 |
+| US2 | Como analista de segurança viária, quero integrar diferentes bases de dados (PRF, IBGE, DENATRAN), para obter uma visão completa dos acidentes com veículos pesados nas rodovias brasileiras.  | Alta       |   2 |
+| US3 | Como analista de segurança viária, quero realizar limpeza e padronização dos dados, para garantir consistência e confiabilidade nas análises.  | Alta       |   2 |
+| US4 | Como analista de segurança viária, quero criar variáveis derivadas (acidentes com veículos pesados por população ou frota), para permitir comparações mais justas entre regiões e municípios.| Alta       |   2 |
+| US5 | Como analista de segurança viária, quero armazenar códigos e análises em um repositório no GitHub, para garantir organização, colaboração e transparência no projeto.| Alta       |   2 |
+
  
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
