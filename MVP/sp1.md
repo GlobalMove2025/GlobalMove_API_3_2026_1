@@ -32,13 +32,13 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Dashboard com funcionlidades básicas | Concluído|
-| 01     | ...... | Concluído|
+| 01     | Graficos de mortalidade com aumento de veículos | Concluído|
 
 
 ---
 
 ## 📊 Critérios de Aceitação
-- as funcionalidades das telas de Bi
+- na primeira pagina apresentada 
 
 
 
