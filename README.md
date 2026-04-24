@@ -58,7 +58,7 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 
 # <img src="https://cdn-icons-png.flaticon.com/512/10645/10645636.png" width="40"/> Resultado previsto
 
-...
+Entrega de uma solução de Power Bi que integre dados da PRF, DATASUS, DENATRAN e IBGE em uma base única e confiável, permitindo a análise dos indicadores de segurança viária com foco em veículos pesados. A plataforma vai oferecer um dashboard interativo em Power BI, com filtros dinâmicos e visualizações comparativas entre estados, regiões e municípios, além de métricas padronizadas, como mortalidade por 100 mil habitantes e sinistros por 10 mil veículos, e um ranking de eficiência para municípios com mais de 250 mil habitantes. O projeto também deverá incluir documentação técnica com scripts em Python para tratamento e modelagem dos dados, garantindo transparência e reprodutibilidade, e gerar insights estratégicos que apoiem a tomada de decisão e contribuam para políticas públicas e redução de acidentes no trânsito.
 
 # Product Backlog
 
