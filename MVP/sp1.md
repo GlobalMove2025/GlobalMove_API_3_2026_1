@@ -40,7 +40,7 @@
 ## 📊 Critérios de Aceitação
 - Será possível visualizar o top 10 estados com maior taxa de mortalidade. 
 - Filtros com ano do acidente, estado, tipos de acidentes e tipos de veículos.
-- Gráfico de comparativo da evolução da frota de veículos é óbitos.
+- Gráfico de comparativo da evolução da frota de veículos e óbitos.
 
 ---
 
