@@ -31,7 +31,7 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | o que terá no Dashboard  | Concluído|
+| 01     | Dashboard com funcionlidades básicas | Concluído|
 | 01     | ...... | Concluído|
 
 
