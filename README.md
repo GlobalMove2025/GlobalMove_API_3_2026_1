@@ -47,13 +47,16 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 
 ## Tecnologias Utilizadas
 
-* <img src="https://images.icon-icons.com/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="40"/> Jira Software
 * <img src="https://github.com/user-attachments/assets/689613f0-75f5-44b8-99e7-2b4c1299b318" width="40"/> Power BI
+  
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt__gdZwhO3aSPCNy6b8HwnR5E5AARVCA1wQ&s" width="40"/> Microsoft Excel
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_3XZlnOm4DOJabuOzmsjjPrzM9_j9M4NgA&s" width="40"/> Slack
+  
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgY4Wfy9hXIn-GOD3xvwiisF8GM97MiktoA&s" width="40"/> Python
+  
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyuHWMd6UOi4d_oVuHTBZsGvS7kG6TFK2yQ&s" width="40"/> Colab
-* <img src="https://pngimg.com/uploads/mysql/small/mysql_PNG11.png" width="40"/> Mysql
+  
+* <img src="https://github.com/user-attachments/assets/84936569-e9c3-44c7-9328-920075451ada" width="40"/> Whatsapp
+
 
 
 # <img src="https://cdn-icons-png.flaticon.com/512/10645/10645636.png" width="40"/> Resultado previsto
