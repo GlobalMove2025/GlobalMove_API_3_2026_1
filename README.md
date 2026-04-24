@@ -48,7 +48,7 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 ## Tecnologias Utilizadas
 
 * <img src="https://images.icon-icons.com/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="40"/> Jira Software
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40"/> Power BI
+* <img src="https://github.com/user-attachments/assets/689613f0-75f5-44b8-99e7-2b4c1299b318" width="40"/> Power BI
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt__gdZwhO3aSPCNy6b8HwnR5E5AARVCA1wQ&s" width="40"/> Microsoft Excel
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_3XZlnOm4DOJabuOzmsjjPrzM9_j9M4NgA&s" width="40"/> Slack
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgY4Wfy9hXIn-GOD3xvwiisF8GM97MiktoA&s" width="40"/> Python
