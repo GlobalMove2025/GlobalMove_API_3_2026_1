@@ -12,7 +12,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Analista de segurança viária: Representado pelo diretor de operações do ONSV especialista Ronaldo Rodrigues da Cunha Filho.** 
+- **Analista de segurança viária: Representado pelo diretor de operações do ONSV, especialista Ronaldo Rodrigues da Cunha Filho.** 
 
 
 
