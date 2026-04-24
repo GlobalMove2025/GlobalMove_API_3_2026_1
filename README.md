@@ -42,7 +42,8 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 
 
 # <img src="https://cdn-icons-png.flaticon.com/512/1087/1087807.png" width="40"/> Objetivo do Projeto
- ...
+
+ Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito com foco em veículos pesados. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, frota, população, uso de motocicletas, entre outros. Ao fim, o projeto deve apresentar um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes.
 
 ## Tecnologias Utilizadas
 
@@ -57,7 +58,7 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 
 # <img src="https://cdn-icons-png.flaticon.com/512/10645/10645636.png" width="40"/> Resultado previsto
 
-Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito com foco em veículos pesados. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, frota, população, uso de motocicletas, entre outros. Ao fim, o projeto deve apresentar um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes.
+...
 
 # Product Backlog
 
