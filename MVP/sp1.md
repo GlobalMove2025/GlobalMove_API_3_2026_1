@@ -12,8 +12,8 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **..** 
-- **..** 
+- **Analista de segurança viária: Representado pelo diretor** 
+
 
 
 ---
@@ -31,14 +31,14 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | ...... | Concluído|
+| 01     | o que terá no Dashboard  | Concluído|
 | 01     | ...... | Concluído|
 
 
 ---
 
 ## 📊 Critérios de Aceitação
-- ...
+- as funcionalidades das telas de Bi
 
 
 
