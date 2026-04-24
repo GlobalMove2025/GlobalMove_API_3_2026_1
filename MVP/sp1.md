@@ -32,15 +32,15 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Dashboard com funcionlidades básicas | Concluído|
-| 01     | Graficos de mortalidade com aumento de veículos | Concluído|
+| 01     | Gráficos de mortalidade com aumento de veículos | Concluído|
 
 
 ---
 
 ## 📊 Critérios de Aceitação
-- na primeira pagina apresentada 
-
-
+- Será possível visualizar o top 10 estados com maior taxa de mortalidade. 
+- Filtros com ano do acidente, estado, tipos de acidentes e tipos de veículos.
+- Gráfico de comparativo da evolução da frota de veículos é óbitos.
 
 ---
 
