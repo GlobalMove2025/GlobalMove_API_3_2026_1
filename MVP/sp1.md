@@ -6,13 +6,13 @@
 ---
 
 ## 📝 Descrição da Solução
->Inicialmente fizemos pesquisas de dados e desenvolvemos codigo no python para coletar e fazer o tratamento dos dados, e em seguida fazer a conexão dos dados no Power BI, o Dashboard inicial tera funcionalidaes básicas com informações... .
+>Inicialmente fizemos pesquisas de dados e desenvolvemos codigo no python para coletar e fazer o tratamento dos dados, e em seguida fazer a conexão dos dados no Power BI, o Dashboard inicial tera funcionalidaes básicas com informações sobre a segurança viária do país, com dados do renaest, PRF e IBGE.
 
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Analista de segurança viária: Representado pelo diretor** 
+- **Analista de segurança viária: Representado pelo diretor de operações do ONSV especialista Ronaldo Rodrigues da Cunha Filho** 
 
 
 
