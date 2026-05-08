@@ -30,12 +30,11 @@
 | 01     | ...... | Concluído|
 | 01     | ...... | Concluído|
 
-
+/
 ---
 
 ## 📊 Critérios de Aceitação
 - ...
-
 
 
 ---
