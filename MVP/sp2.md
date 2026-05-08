@@ -6,7 +6,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Inicialmente fizemos pesquisas de dados e desenvolvemos codigo no python para coletar e fazer o tratamento dos dados, e em seguida fazer a conexão dos dados no Power BI, das informações sobre a segurança viária do país, com dados do renaest, PRF e IBGE.
+> Inicialmente fizemos pesquisas de dados e desenvolvemos codigo no python para coletar e fazer o tratamento dos dados, e em seguida fazer a conexão dos dados no Power BI, das informações sobre a segurança viária do país, com dados do renaest, PRF e IBGE. Criamos filtros com o local, data e causa dos acidentes. 
 
 ---
 
