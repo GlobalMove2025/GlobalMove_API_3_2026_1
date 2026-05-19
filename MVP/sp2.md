@@ -27,14 +27,17 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | ...... | Concluído|
-| 01     | ...... | Concluído|
+| 01     | Dashboard funcional. | Concluído|
+| 02     | Gráficos com o perfil do infrator | Concluído|
+| 03     | Gráficos de indicações por incidência e localização | Concluído|
+| 04     | Filtros por município, UF, ano e sexo | Concluído|
 
-/
+
 ---
 
 ## 📊 Critérios de Aceitação
-- ...
+- Será possível visualizar grafico por perfil do infrator, e indicadores de incidência.
+- também conseguirá vizualizar indicadores por taxa de acidentes, taxa de mortalidade, acidentes por população e acidentes por frota
 
 
 ---
