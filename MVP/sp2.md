@@ -53,6 +53,8 @@
 # <img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/649cc817-6e38-4bea-bb9e-a687879c2e2c" />
 # <img width="1024" height="503" alt="image" src="https://github.com/user-attachments/assets/055816c7-1238-4067-a754-146ba71983b4" />
 # <img width="1024" height="448" alt="image" src="https://github.com/user-attachments/assets/509890b6-8b88-4e47-92c6-aa17c8585193" />
-# [Vídeo]() 
+# <img width="800" height="448" alt="image" src="https://github.com/user-attachments/assets/0b6d5936-a03e-418c-b6d8-1dfd767d57ba" />
+# <img width="883" height="495" alt="image" src="https://github.com/user-attachments/assets/3a92d6ab-9f62-4f69-ae67-4595eab82704" />
+# [Vídeo](https://centropaulasouza-my.sharepoint.com/:v:/r/personal/acledson_soares_aluno_cps_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/ImportedSegment.801789292.084373.mov?csf=1&web=1&e=WgZNK3) 
 
 
