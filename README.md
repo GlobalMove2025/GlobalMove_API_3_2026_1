@@ -92,7 +92,7 @@ Entrega de uma solução de Power Bi que integre dados da PRF, DATASUS, DENATRAN
 | Sprint            | Previsão    | Status       | Histórico          |
 |-------------------| ----------- | ------------ |--------------------|
 | 01                | 24/04/2026  | concluído    | [MVP](MVP/sp1.md)  |
-| 02                | 22/05/2026  | A fazer      | [MVP](MVP/sp2.md)  |
+| 02                | 29/05/2026  | concluído    | [MVP](MVP/sp2.md)  |
 | 03                | 12/06/2026  | A fazer      | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026  | A fazer      | [MVP](MVP/sp3.md)  |
 
