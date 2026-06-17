@@ -22,8 +22,8 @@
 | US2 | Como analista de segurança viária, quero analisar a evolução dos acidentes com veículos pesados ao longo do tempo (anos e meses), para identificar períodos com maior incidência de acidentes. | Alta | 2 |
 | US3 | Como analista de segurança viária, quero mapear a localização dos acidentes, para identificar regiões e rodovias com maior concentração de acidentes. | Alta | 2 |
 | US4 | Como analista de segurança viária, quero analisar fatores associados aos acidentes com veículos pesados (horário, clima, tipo de via), para identificar possíveis causas e riscos envolvidos. | Alta | 2 |
-| US5 | Como analista de segurança viária, quero calcular indicadores de segurança viária, para avaliar o nível de risco e gravidade dos acidentes com veículos pesados em diferentes regiões. (Taxa de acidentes, taxa de mortalidade, acidentes por população, acidentes por frota). | Alta | 2 |
- 
+
+
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
