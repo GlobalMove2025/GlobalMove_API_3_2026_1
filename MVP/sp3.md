@@ -34,8 +34,8 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01 | Gráficos com taxa de acidentes, mortalidade, por população e por frota | Concluído|
-| 02 | Gráficos de indicações por incidência e localização | Concluído|
-| 03 | Filtros por município, UF, ano e sexo | Concluído|
+| 02 | Ranking comm desempenho das cidades na redução de acidentes | Concluído|
+| 03 | Mapas interativos sobre os pontos críticos de acidentes com veículos pesados. | Concluído|
 ---
 
 ## 📊 Critérios de Aceitação
