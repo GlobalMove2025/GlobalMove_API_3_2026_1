@@ -33,10 +33,9 @@
 
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Dashboard funcional. | Concluído|
-| 02     | Gráficos com o perfil do infrator | Concluído|
-| 03     | Gráficos de indicações por incidência e localização | Concluído|
-| 04     | Filtros por município, UF, ano e sexo | Concluído|
+| 01 | Gráficos com taxa de acidentes, mortalidade, por população e por frota | Concluído|
+| 02 | Gráficos de indicações por incidência e localização | Concluído|
+| 03 | Filtros por município, UF, ano e sexo | Concluído|
 ---
 
 ## 📊 Critérios de Aceitação
