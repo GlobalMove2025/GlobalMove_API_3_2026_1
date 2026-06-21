@@ -39,7 +39,9 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- ...
+- Será possivel visualizar gráfico com o o índice de severidade por rotas em cada estado.
+- Será possível visualizar também, as rotas ativas e quantidades de acidentes em cada estado.
+- Gráficos com a quantidade de cargas pesas em rotas de transporte diariamente.
 
 
 
